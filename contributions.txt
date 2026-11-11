@@ -1,0 +1,7 @@
+Peter Lam:
+  - created PDF files
+  - fully implemented App.js
+
+Matthew Bennett:
+  - created repo and added all files
+  - created video
