@@ -30,7 +30,7 @@ function GetWeather() {
       event.preventDefault();
       setWeather({ ...weather, loading: true, error: false });
       const url = 'https://api.openweathermap.org/data/2.5/weather';
-      const api_key = '19d2af9b0584fb482deb19792377bec4';
+      const api_key = '203cf10dead21fbd8b7b7f8f24e7a321';
 
       await axios
           .get(url, {
